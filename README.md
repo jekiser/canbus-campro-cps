@@ -1,4 +1,4 @@
-# ESP32 CAN Bus Display
+# ESP32 CAN Bus Display Campro Cps
 
 This project utilizes an ESP32 microcontroller to read and display data from a CAN (Controller Area Network) bus. It is designed to visualize various vehicle parameters such as RPM, temperature, speed, and additional data through an OLED display.
 
